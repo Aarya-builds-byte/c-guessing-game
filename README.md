@@ -34,3 +34,6 @@ A simple, interactive terminal-based game built in C. The program generates a ps
    ```bash
    git clone [https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git](https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git)
    cd YOUR-REPO-NAME
+2. **Compile the code:**
+   ```bash
+   gcc Guessing_game.c -o number_guessing_game
